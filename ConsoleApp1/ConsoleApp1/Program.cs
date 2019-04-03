@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Add");
             Console.WriteLine("Made some changes");
+            Console.WriteLine("This is a misake! i wish i didn't do this");
 
         }
     }
